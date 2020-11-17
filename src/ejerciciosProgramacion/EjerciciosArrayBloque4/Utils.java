@@ -72,7 +72,22 @@ public class Utils {
 	public static int obtenerEntero() {
 		return obtenerEnteroPorJOptionPane();
 	}
+
+	public static int countOccurrences(int array[],int numero) {
+		int sumatorio = 0; 
+		for (int i = 0; i < array.length; i++) {
+			if (array[i] == numero) {
+				sumatorio++;
+			}
+		}
+		return sumatorio;
+		
+	}
+
+
+
 }
+
 
 
 

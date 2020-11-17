@@ -1,4 +1,4 @@
-package EjerciciosArraysBloque2;
+package ejerciciosProgramacion.EjerciciosArraysBloque2;
 
 public class Ejer2 {
 

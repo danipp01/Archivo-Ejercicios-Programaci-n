@@ -1,4 +1,4 @@
-package EjerciciosConMetodos;
+package ejerciciosProgramacion.EjerciciosConMetodos;
 
 import java.io.BufferedReader;
 

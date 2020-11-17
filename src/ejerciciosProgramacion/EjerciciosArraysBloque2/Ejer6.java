@@ -1,4 +1,4 @@
-package EjerciciosArraysBloque2;
+package ejerciciosProgramacion.EjerciciosArraysBloque2;
 import javax.swing.JOptionPane;
 public class Ejer6 {
 
