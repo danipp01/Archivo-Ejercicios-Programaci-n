@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 import ejerciciosProgramacion.Utils;
 
-public class Ejercicio1 {
+public class Editor_Textos {
 
 	public static void main(String[] args) {
 		// Declaro variables necesarias
