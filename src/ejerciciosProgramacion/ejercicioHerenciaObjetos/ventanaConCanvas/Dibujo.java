@@ -14,10 +14,10 @@ public class Dibujo extends Canvas {
 	@Override
 	public void paint (Graphics g) {
 		g.setColor(Color.RED);
-		g.fillRect(10, 10, 30, 50);
+		g.fillRect(10, 10, 50, 50);
 		
-		g.setColor(Color.DARK_GRAY);
-		g.fillOval(50, 10, 30, 50);
+		g.setColor(Color.GREEN);
+		g.fillOval(45, 65, 40, 40);
 		
 		int[] x = {90,90,150};
 		int[] y = {30,110,70};
